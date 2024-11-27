@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color:antiquewhite;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:5%
+}
+
+button {
+    color: rgb(255, 0, 0);
+    background-color: blueviolet;
+    font-size: 15px;
+    margin: 5px;
+}
+
+.passo {
+    display:none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    max-width: 90%;
+    text-align: center;
+}
+
+img {
+    max-width: 90%;
+}
+
+img.oh-no {
+    max-width: 50%;
+}
+
+img.Necro {
+    max-width: 35%;
+}
+
+
+img.D {
+    max-width: 35%;
+}
+
+img.Bestial {
+    max-width: 30%;
+}
+
+img.Energia {
+    max-width: 35%;
+}
+
+img.C {
+    max-width: 35%;
+}
